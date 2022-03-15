@@ -3,6 +3,6 @@ It checks the pollution at your current position by grabbing your location and a
 # Air Pollution checker
 
 by betha
-<footer>
+<p>
 	Save tree it don't charge fee <img src="images/tree.svg" width="35" height="35" />
-</footer>
+</p>
